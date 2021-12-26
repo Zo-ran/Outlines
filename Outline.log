@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.24)  26 DEC 2021 12:07
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.24)  26 DEC 2021 12:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,14 +386,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 57.
- [2] (./Outline.aux) ) 
+ [2] [3] (./Outline.aux) ) 
 Here is how much of TeX's memory you used:
  8382 strings out of 476919
  225222 string characters out of 5825423
- 557950 words of memory out of 5000000
+ 561950 words of memory out of 5000000
  28287 multiletter control sequences out of 15000+600000
  407282 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  101i,10n,104p,1211b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Outline.pdf (2 pages).
+Output written on Outline.pdf (3 pages).
